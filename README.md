@@ -1,1 +1,1 @@
-# Robotic-Arm-Project-Diploma-Thesis
+# Robotic-Arm-Project
