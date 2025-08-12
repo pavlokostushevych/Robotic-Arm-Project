@@ -1,6 +1,6 @@
 📄 Wersja polska poniżej – [Przejdź do wersji PL](#pl)
 
-# 🤖 Robotic-Arm-Project
+# 🤖 Robotic Arm Project
 
 This project presents the design, construction, and kinematic analysis of a 4-DOF robotic manipulator with rotational joints.
 It includes both forward and inverse kinematics implementation, position error compensation algorithms, and two independent control interfaces – a desktop application and a mobile app with Bluetooth communication.
