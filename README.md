@@ -11,6 +11,8 @@ The project also features mechanical design, electronics integration, and experi
 ## 📁 How to Use
 
 You can read the full documentation of my work in the PDF included in this repository, english (machine-translated) and polish versions.
+  - [Projekt_ramienia_robotycznego.pdf](Projekt_ramienia_robotycznego.pdf) – original report in Polish  
+  - [Robotic_Arm_Project.pdf](Robotic_Arm_Project.pdf) – machine-translated report in English
 
 ---
 
@@ -35,7 +37,9 @@ Projekt zawiera również konstrukcję mechaniczną, integrację układu elektro
 ## 📁 Jak używać
 
 Pełną dokumentację mojej pracy można znaleźć w pliku PDF dołączonym do tego repozytorium, w wersji polskiej oraz angielskiej (tłumaczenie maszynowe).
-
+  - [Projekt_ramienia_robotycznego.pdf](Projekt_ramienia_robotycznego.pdf) – oryginalny raport w języku polskim
+  - [Robotic_Arm_Project.pdf](Robotic_Arm_Project.pdf) – automatycznie przetłumaczony raport na angielski
+    
 ---
 
 ## 📬 Kontakt
